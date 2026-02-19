@@ -20,17 +20,17 @@
 ---
 ## 📂 Mes projets
 [Listez 2-3 projets significatifs avec une brève description et un lien vers le dépôt GitHub. Exemple :]
-- **[Nom du projet](lien)** : Description courte + technologies utilisées.
-- **[Nom du projet](lien)** : Description courte + technologies utilisées.
+- **[EasyFacture](https://github.com/adoudi-mondher/facturation-pro)** : Petit logiciel desktop de facturation | Python Flask - JS - HTML/CSS - SQLite
+- **[Licences Server](https://github.com/adoudi-mondher/license-server-facturation-pro)** : Systeme de gestion licence pour EasyFacture | Python FastAPI - PostgreSQL - Docker
 
 ---
 ## 📬 Contact
 📩 Email : [adoudi@mondher.ch](mailto:adoudi@mondher.ch)
-🔗 LinkedIn : [lien](https://linkedin.com/in/votreprofil)
-🖥️ Portfolio : [lien](https://votreportfolio.com)
+🔗 [LinkedIn](https://linkedin.com/in/mondher-adoudi)
+🖥️ [Portfolio](https://mondher.ch)
 📱 Téléphone : +33 6 67 06 61 96
 
 ---
 ## 📄 CV et ressources
-[Téléchargez mon CV](lien_vers_votre_CV.pdf)
-[Consultez mon portfolio](lien_vers_votre_portfolio)
+[Téléchargez mon CV](https://mondher.ch/author/mondher/)
+
