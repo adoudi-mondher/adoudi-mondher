@@ -1,16 +1,36 @@
-## Hi there 👋
+# Mondher ADOUDI 
+*Concepteur Développeur Logiciel (en formation) | Open to work (Stage/Alternance)*
 
-<!--
-**adoudi-mondher/adoudi-mondher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## À propos de moi
+*"Étudiant en conception et développement logiciel, je me spécialise dans Java / Spring mais je reste très en veille sur : le développement web, l'IA, Python, etc. Je recherche activement un stage pour appliquer mes compétences en conception et développement logiciel et contribuer à des projets innovants."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Compétences techniques
+| Catégorie          | Technologies/Outils                                                                 |
+|--------------------|------------------------------------------------------------------------------------|
+| **Langages**       | Python, Java, JavaScript                                                       |
+| **Frontend**       | React, HTML/CSS, Tailwind                                                         |
+| **Backend**        | FastAPI, Flask, Spring Boot                                             |
+| **Base de données**| MySQL, PostgreSQL, Neo4j                                                          |
+| **Outils**         | Git, Docker, VS Code, Figma                                                        |
+
+---
+## 📂 Mes projets
+[Listez 2-3 projets significatifs avec une brève description et un lien vers le dépôt GitHub. Exemple :]
+- **[Nom du projet](lien)** : Description courte + technologies utilisées.
+- **[Nom du projet](lien)** : Description courte + technologies utilisées.
+
+---
+## 📬 Contact
+📩 Email : [adoudi@mondher.ch](mailto:adoudi@mondher.ch)
+🔗 LinkedIn : [lien](https://linkedin.com/in/votreprofil)
+🖥️ Portfolio : [lien](https://votreportfolio.com)
+📱 Téléphone : +33 6 67 06 61 96
+
+---
+## 📄 CV et ressources
+[Téléchargez mon CV](lien_vers_votre_CV.pdf)
+[Consultez mon portfolio](lien_vers_votre_portfolio)
